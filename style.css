@@ -7,6 +7,10 @@ h1 {
     font-size: 3rem;
 }
 
+h2 {
+    color: white;
+}
+
 .poster {
     width: 50%;
     margin-left: 25%;
