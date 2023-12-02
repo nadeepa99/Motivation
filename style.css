@@ -13,7 +13,7 @@ a {
 }
 
 a:hover {
-  color: red;
+  color: orange;
   background-color: transparent;
   text-decoration: underline;
 }
