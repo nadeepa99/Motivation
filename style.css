@@ -12,6 +12,12 @@ h2 {
     text-decoration: none;
 }
 
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 .poster {
     width: 50%;
     margin-left: 25%;
