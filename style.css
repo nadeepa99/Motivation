@@ -15,7 +15,7 @@ a {
 a:hover {
   color: orange;
   background-color: transparent;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .poster {
