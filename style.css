@@ -8,13 +8,8 @@ h1 {
 }
 
 h2 {
-    color: white;
-}
-
-a:link {
-  color: green;
-  background-color: transparent;
-  text-decoration: none;
+    color: #fff;
+    text-decoration: none;
 }
 
 .poster {
